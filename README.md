@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek-Thoke
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Jaava programming
+- 🌱 I’m currently learning Java programming
 - 💞️ I’m looking to collaborate on corporate industries
 - 📫 reach me on Email ID abhishekthoke98@gmail.com
 
